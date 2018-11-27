@@ -1,6 +1,6 @@
 {
   "name": "angularjs-slickcarousel-directive",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Angularjs directive for slick carousel",
   "main": "dist/angular-slick.js",
   "directories": {
