@@ -6,7 +6,6 @@
   "directories": {
     "test": "test"
   },
-  "bundleDependencies": false,
   "dependencies": {
     "angular": "^1.7.5",
     "angular-mocks": "^1.7.5",
