@@ -23,6 +23,7 @@ describe('angular slick testing', function () {
   // DSL (domain-specific language)
   function compileTemplate(template) {
     var el = $compile(angular.element(template))(scope);
+    console.warn(el)
     scope.$digest();
     $timeout.flush();
     return el;
