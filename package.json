@@ -12,6 +12,7 @@
     "angular-mocks": "^1.7.5",
     "compile-template": "^0.3.1",
     "jquery": "^3.3.1",
+    "npm-force-resolutions": "0.0.2",
     "slick-carousel": "^1.8.1"
   },
   "deprecated": false,
@@ -68,6 +69,9 @@
   },
   "engines": {
     "node": ">=0.10.0"
+  },
+  "resolutions": {
+    "event-stream": "3.3.4"
   },
   "scripts": {
     "test": "karma start ./karma.conf.js"
