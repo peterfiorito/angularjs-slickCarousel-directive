@@ -194,3 +194,4 @@ Forked from original @devmark's project
 ## Versions
 - 1.0.0 (May 2018) Initial release
 - 1.1.0 (November 2018) Updated dependencies
+- 1.2.0 (November 2018) Updated test suite
