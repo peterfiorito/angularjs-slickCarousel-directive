@@ -15,6 +15,7 @@ Angular directive for [slick-carousel](http://kenwheeler.github.io/slick/)
 - [faq](#faq)
 - [Examples](#examples)
 - [Creator](#creator)
+- [Versions](#versions)
 
 
 
@@ -189,3 +190,7 @@ so you can see the samples with this adress: http://localhost:8000/examples/#/
 
 ## Author
 Forked from original @devmark's project
+
+## Versions
+- 1.0.0 (May 2018) Initial release
+- 1.1.0 (November 2018) Updated dependencies
